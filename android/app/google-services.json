@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205740020219",
+    "project_id": "round-bloom-132723"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205740020219:android:21008f960da53feb",
+        "android_client_info": {
+          "package_name": "com.qcandroidfull"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205740020219-msdbs73671dpv92inkajf1k204k5ct1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qcandroidfull",
+            "certificate_hash": "1D474D6162771792AF78BB0A7AFB8A13C4336B20"
+          }
+        },
+        {
+          "client_id": "205740020219-ti203da4t6e1m4erar23o9ik9rbq9ig7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzlFwU5Igi8EmrCkQoSdazDygkqDFrsxU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

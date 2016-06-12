@@ -1,0 +1,10 @@
+export const SHARE_URL = 'https://www.qcharity.org/en/qa/campaign?campaignId=56';
+export const SHARE_TEXT = 'Syria Campaign';
+export const SHARE_IMAGE_URL = 'http://www.qcharity.org/Exportpath/WebStoryCampaign/2016/3/1-Photo2016-03-16_01-56-15-PM.jpg';
+export const SERVER_URL = 'http://servicestest.qcharity.org/api/MobileDevice/TafreejKorba';
+export const DONATE_TEXT = 'DONATE';
+export const SMS_TEXT = "Send Notification SMS";
+export const INFO_NOTIFICATION_TITLE_En = "About Tafreej Korba";
+export const INFO_NOTIFICATION_TITLE_Ar = "عن تفريج الكربة";
+export const INFO_NOTIFICATION_CONTENT_En = "Ibn 'Umar (May Allah be pleased with them) reported: Messenger of Allah said, \"A Muslim is a brother of (another) Muslim, he neither wrongs him )صلى الله عليه وسلم( nor does hand him over to one who does him wrong. If anyone fulfills his brother's needs, Allah will fulfill his needs; if one relieves a Muslim of his troubles, Allah will relieve his troubles on the Day of Resurrection; and if anyone covers up a Muslim (his sins), Allah will cover him up (his sins) on the Resurrection Day\"";
+export const INFO_NOTIFICATION_CONTENT_Ar = "عن عبد الله بن عمر رضي الله عنهما أن رسول الله صلى الله عليه وسلم قال : \"المسلم أخو المسلم لا يظلمه ولا يُسلمه، ومن كان في حاجة أخيه كان الله في حاجته، ومن فرَّج عن مسلم كربة فرَّج الله عنه كربة من كربات يوم القيامة، ومن ستر مسلمًا ستره الله يوم القيامة \" (رواه البخاري ومسلم) .... برنامج تفريج كربة تعده وتقدمه قطر الخيرية بالتعاون والشراكة مع اذاعة القرآن الكريم ";

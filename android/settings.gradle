@@ -1,0 +1,28 @@
+rootProject.name = 'QCAndroidFull'
+
+include ':app'
+include ':react-native-fbsdk'
+include ':react-native-google-signin'
+include ':react-native-sms-android'
+include ':reactnativemapboxgl'
+include ':react-native-image-picker'
+include ':react-native-fileupload'
+include ':RCTVideo'
+include ':react-native-contacts'
+include ':ReactNativeLocalization'
+include ':react-native-vector-icons'
+include ':react-native-share'
+include ':ReactNativeDropdownAndroid'
+
+project(':react-native-fbsdk').projectDir = new File(settingsDir, '../node_modules/react-native-fbsdk/Android')
+project(':react-native-google-signin').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-google-signin/android')
+project(':react-native-sms-android').projectDir = new File(settingsDir, '../node_modules/react-native-sms-android/android')
+project(':reactnativemapboxgl').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-mapbox-gl/android')
+project(':react-native-image-picker').projectDir = new File(settingsDir, '../node_modules/react-native-image-picker/android')
+project(':react-native-fileupload').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-fileupload/android')
+project(':RCTVideo').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-video/android')
+project(':react-native-contacts').projectDir = new File(settingsDir, '../node_modules/react-native-contacts/android')
+project(':ReactNativeLocalization').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-localization/android')
+project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-vector-icons/android')
+project(':react-native-share').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-share/android')
+project(':ReactNativeDropdownAndroid').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-dropdown-android/android')
